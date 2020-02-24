@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  height: 60px;
+  background-color: blanchedalmond;
+  width: 100%;
+}
+
+.progressbar {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 1%;
+  height: 40%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
